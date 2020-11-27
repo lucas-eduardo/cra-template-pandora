@@ -1,0 +1,40 @@
+{
+  "files.exclude": {
+    // "node_modules": true,
+    // "package-lock.json": true,
+    // "tsconfig.json": true,
+    // "**/react-app-env.d.ts": true,
+    // ".gitignore": true,
+    // ".editorconfig": true,
+    // ".eslint*": true
+  },
+  "terminal.integrated.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.fontSize": 13,
+  "editor.lineHeight": 24,
+  "editor.fontLigatures": true,
+  "editor.parameterHints.enabled": false,
+  "editor.renderLineHighlight": "gutter",
+  "explorer.compactFolders": false,
+  "workbench.editor.labelFormat": "short",
+  "extensions.ignoreRecommendations": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "javascript.suggest.autoImports": true,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "typescript.suggest.autoImports": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "breadcrumbs.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "editor.rulers": [ 80 ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "screencastMode.onlyKeyboardShortcuts": true
+}
