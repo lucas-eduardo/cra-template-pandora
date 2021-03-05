@@ -37,18 +37,32 @@ my-app/
 ├─ .env.local
 ├─ .eslintignore
 ├─ .eslintrc.json
-├─ .releaserc.json
+├─ .releaserc
+├─ .config-overrides.js
 ├─ .gitignore
 └─ .Makefile
+└─ .tsconfig.paths.json
 ```
 
 ## Differential
 
-- styled-components
-- semantic-release
+- styled components
+- semantic release
 - eslint
 - prettier
 - commitizen
+- husky
+- custom paths
+
+## Note
+For custom paths to work, you need to extend tsconfig.paths.json on tsconfig.json
+
+```
+{
+  "extends": "./tsconfig.paths.json",
+  ...
+}
+```
 
 For more information, please refer to:
 
