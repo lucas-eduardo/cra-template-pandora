@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/lucas-eduardo/cra-template-pandora/compare/v1.2.0...v1.2.1) (2021-07-08)
+
+
+### Bug Fixes
+
+* adjust paths ([708f58d](https://github.com/lucas-eduardo/cra-template-pandora/commit/708f58d385382336a4665d1ef727703e94eb113f))
+
 ## [1.1.1](https://github.com/lucas-eduardo/cra-template-pandora/compare/v1.1.0...v1.1.1) (2021-07-08)
 
 
