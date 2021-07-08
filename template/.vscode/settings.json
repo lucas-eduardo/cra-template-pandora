@@ -1,37 +1,13 @@
 {
   "files.exclude": {
-    "node_modules": true,
-    "package-lock.json": true,
-    "yarn.lock": true,
-    "tsconfig.json": true,
-    "tsconfig.paths.json": true,
-    "config-overrides.js": true,
-    ".gitignore": true,
-    ".editorconfig": true,
-    ".eslint*": true,
-    "yarn-error.log": true,
-    "src/reportWebVitals.ts": true,
-    "src/react-app-env.d.ts": true,
-    "src/setupTests.ts": true
+    "node_modules": false,
+    "package-lock.json": false,
+    "tsconfig.json": false,
+    "config-overrides.js": false,
+    ".gitignore": false,
+    ".editorconfig": false,
+    ".eslint*": false
   },
-  "terminal.integrated.fontSize": 12,
-  "editor.tabSize": 2,
-  "editor.fontSize": 13,
-  "editor.lineHeight": 24,
-  "editor.fontLigatures": true,
-  "editor.parameterHints.enabled": false,
-  "editor.renderLineHighlight": "gutter",
-  "explorer.compactFolders": false,
-  "workbench.editor.labelFormat": "short",
-  "extensions.ignoreRecommendations": true,
-  "javascript.updateImportsOnFileMove.enabled": "never",
-  "javascript.suggest.autoImports": true,
-  "typescript.updateImportsOnFileMove.enabled": "never",
-  "typescript.suggest.autoImports": true,
-  "typescript.tsdk": "node_modules/typescript/lib",
-  "breadcrumbs.enabled": true,
-  "explorer.confirmDragAndDrop": false,
-  "explorer.confirmDelete": false,
   "editor.rulers": [ 80 ],
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
@@ -41,6 +17,5 @@
   },
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
-  },
-  "screencastMode.onlyKeyboardShortcuts": true
+  }
 }
