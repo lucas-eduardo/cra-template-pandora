@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/lucas-eduardo/cra-template-pandora/compare/v1.1.0...v1.1.1) (2021-07-08)
+
+
+### Bug Fixes
+
+* adjust template cra ([cda6100](https://github.com/lucas-eduardo/cra-template-pandora/commit/cda61004d9c911e6383e5fd3f90b83602a365eac))
+
 # [1.1.0](https://github.com/lucas-eduardo/cra-template-pandora/compare/v1.0.0...v1.1.0) (2021-03-05)
 
 
