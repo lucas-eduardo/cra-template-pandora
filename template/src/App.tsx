@@ -6,7 +6,7 @@ const App = () => {
       <Global />
       <h1>Create React App - Cra Template Pandora</h1>
     </>
-  );
-};
+  )
+}
 
 export { App }

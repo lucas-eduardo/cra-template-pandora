@@ -38,10 +38,10 @@ my-app/
 ├─ .eslintignore
 ├─ .eslintrc.json
 ├─ .releaserc
-├─ .config-overrides.js
+├─ .craco.config.js
 ├─ .gitignore
 └─ .Makefile
-└─ .tsconfig.paths.json
+└─ .paths.json
 ```
 
 ## Differential
