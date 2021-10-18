@@ -8,6 +8,14 @@
     "typescript"
   ],
   "description": "Standard design structure.",
+  "homepage": "https://github.com/lucas-eduardo/cra-template-pandora",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucas-eduardo/cra-template-pandora.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucas-eduardo/cra-template-pandora/issues"
+  },
   "main": "template.json",
   "scripts": {
     "cz": "npx cz",
