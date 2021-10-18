@@ -1,4 +1,4 @@
-# cra-template-pandora
+# CRA Template Pandora
 
 This is the TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
 
@@ -55,11 +55,11 @@ my-app/
 - custom paths
 
 ## Note
-For custom paths to work, you need to extend tsconfig.paths.json on tsconfig.json
+For custom paths to work, you need to extend paths.json on tsconfig.json
 
 ```
 {
-  "extends": "./tsconfig.paths.json",
+  "extends": "./paths.json",
   ...
 }
 ```
