@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/lucas-eduardo/cra-template-pandora/compare/v1.3.0...v1.4.0) (2021-10-18)
+
+
+### Features
+
+* package.json improvement ([000f023](https://github.com/lucas-eduardo/cra-template-pandora/commit/000f0239afd77ea0c665c005b85f48f63651c299))
+
 # [1.3.0](https://github.com/lucas-eduardo/cra-template-pandora/compare/v1.2.1...v1.3.0) (2021-10-18)
 
 
