@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/lucas-eduardo/cra-template-pandora/compare/v1.2.1...v1.3.0) (2021-10-18)
+
+
+### Features
+
+* react-app-rewired replaced by craco ([000a0cb](https://github.com/lucas-eduardo/cra-template-pandora/commit/000a0cbcf62d512b4b5bf3b59286d1fae5e1d09c))
+
 ## [1.2.1](https://github.com/lucas-eduardo/cra-template-pandora/compare/v1.2.0...v1.2.1) (2021-07-08)
 
 
